@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "90A0001FBCD022CCC4684456491FF5D55BA5F077",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "90A0001FBCD022CCC4684456491FF5D55BA5F077" : 0,
+    "56C0A804BA2F7709C0600D63E177A6008A06EA93" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "84309B19-9F4C-493B-9EFE-A89E31B28EA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "90A0001FBCD022CCC4684456491FF5D55BA5F077" : "learn\/",
+    "56C0A804BA2F7709C0600D63E177A6008A06EA93" : "learn\/songmm\/projects\/IJKMediaDemo-develop-cache-vodcache.a\/framework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IJKMediaDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "songmm\/projects\/IJKMediaDemo-develop-cache-vodcache.a\/IJKMediaDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.vbyte.cn:cpp\/framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56C0A804BA2F7709C0600D63E177A6008A06EA93"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.vbyte.cn:cpp\/advancedp2p.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90A0001FBCD022CCC4684456491FF5D55BA5F077"
+    }
+  ]
+}
