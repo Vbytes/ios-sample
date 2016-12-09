@@ -179,8 +179,8 @@ pod install
 *温馨提示*：如果你需要任何帮助，或有任何疑问，请[联系我们](mailto:contact@exatech.cn)。
 
 [1]: http://devcenter.vbyte.cn
-[2]: /api/ios/
-[3]: /manage/base/
+[2]: http://docs.vbyte.cn/api/ios/
+[3]: http://docs.vbyte.cn/manage/base/
 [4]: https://github.com/Vbytes/VbyteP2PFramework
 [5]: https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPFrameworks/Tasks/IncludingFrameworks.html
 [6]: http://cocoapods.org
