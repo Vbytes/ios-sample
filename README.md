@@ -19,9 +19,9 @@ IOS P2P Sample
 
 ### 编译安装
 
-[IOS SDK][4]托管于第三方平台[CocoaPods][6]上，使用上非常简单，此demo演示集成IOS SDK是如此的简单。
+[IOS SDK][4]托管于第三方平台[CocoaPods][6]上，使用上非常简单，此demo演示集成[IOS SDK][4]是如此的简单。
 
-由于apple的开发限制，本demo并不能提供一个编译好的ipa程序，也不能发布一个简单的demo上app store，若想体验IOS的demo请下载编译此项目！
+由于apple的开发限制，本demo并不能提供一个编译好的ipa程序，也不能发布一个简单的demo上app store，若想体验IOS的demo请下载此项目源码并编译安装！
 
 - 将项目clone到本地
 ```bash
@@ -39,7 +39,8 @@ pod install
 ### 扩展链接
 
 * **[IOS SDK][4]**: SDK的开源代码仓库
-* **[IOSSample][7]**: 一个使用ijkplayer的简单样例
+* **[IOS Sample][7]**: 一个使用ijkplayer的简单样例
+* **[CocoaPods][6]**: SDK在Cocoapods上的托管位置
 * **[API Doc][2]**: 更加详细的API文档，其中包含如直播时移的高级功能使用方法
 
 ### 技术支持
