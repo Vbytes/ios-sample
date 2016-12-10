@@ -1,18 +1,25 @@
 IOS P2P Sample
 ===
 
-vbyte云视频解决方案，可帮助用户直接使用经过大规模验证的直播流媒体分发服务，通过vbyte成熟的P2P技术大幅节省带宽，提供更优质的用户体验。开发者可通过SDK中简洁的接口快速同自有应用集成，实现iOS设备上的视频P2P加速功能。
+该项目使用IJKMediaPlayer，演示我们的P2P功能的样例程序
 
 ### 功能
 
 - 直播、点播基本功能+P2P
 - 直播时移支持
-- 直播HLS P2P原生支持
+- HLS P2P原生支持
 - 防盗播支持
+
+### 开发者中心
+
+开发者中心可帮助您查看一些统计数据。
+
+**地址**: http://devcenter.vbyte.cn  
+**测试帐号**: 用户名: test@vbyte.cn，密码: Vb360  
 
 ### 编译安装
 
-IOS SDK托管于第三方平台[CocoaPods][6]上，使用上非常简单，此demo演示集成IOS SDK是如此的简单。
+[IOS SDK][4]托管于第三方平台[CocoaPods][6]上，使用上非常简单，此demo演示集成IOS SDK是如此的简单。
 
 由于apple的开发限制，本demo并不能提供一个编译好的ipa程序，也不能发布一个简单的demo上app store，若想体验IOS的demo请下载编译此项目！
 
@@ -31,7 +38,7 @@ pod install
 
 ### 扩展链接
 
-* **[Github][4]**: SDK的开源代码仓库
+* **[IOS SDK][4]**: SDK的开源代码仓库
 * **[IOSSample][7]**: 一个使用ijkplayer的简单样例
 * **[API Doc][2]**: 更加详细的API文档，其中包含如直播时移的高级功能使用方法
 
@@ -44,5 +51,5 @@ pod install
 [1]: http://devcenter.vbyte.cn
 [2]: http://docs.vbyte.cn/api/ios/
 [4]: https://github.com/Vbytes/VbyteP2PFramework
-[6]: http://cocoapods.org
+[6]: http://cocoapods.org/?q=VByteP2P
 [7]: https://github.com/Vbytes/ios-sample
